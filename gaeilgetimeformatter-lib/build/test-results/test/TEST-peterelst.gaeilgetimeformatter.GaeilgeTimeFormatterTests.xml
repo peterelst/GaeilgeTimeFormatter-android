@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="peterelst.gaeilgetimeformatter.GaeilgeTimeFormatterTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-05-28T15:44:50" hostname="HYP92132H2" time="0.015">
+  <properties/>
+  <testcase name="testQuarterTo()" classname="peterelst.gaeilgetimeformatter.GaeilgeTimeFormatterTests" time="0.007"/>
+  <testcase name="testOnTheHour()" classname="peterelst.gaeilgetimeformatter.GaeilgeTimeFormatterTests" time="0.002"/>
+  <testcase name="testHalfPast()" classname="peterelst.gaeilgetimeformatter.GaeilgeTimeFormatterTests" time="0.001"/>
+  <testcase name="testEdgeCases()" classname="peterelst.gaeilgetimeformatter.GaeilgeTimeFormatterTests" time="0.002"/>
+  <testcase name="testMinutesPast()" classname="peterelst.gaeilgetimeformatter.GaeilgeTimeFormatterTests" time="0.001"/>
+  <testcase name="testQuarterPast()" classname="peterelst.gaeilgetimeformatter.GaeilgeTimeFormatterTests" time="0.001"/>
+  <testcase name="testMinutesTo()" classname="peterelst.gaeilgetimeformatter.GaeilgeTimeFormatterTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
